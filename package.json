@@ -1,0 +1,23 @@
+{
+  "name": "MyBigNumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyBigNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdleyTales/MyBigNumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdleyTales/MyBigNumber/issues"
+  },
+  "homepage": "https://github.com/AdleyTales/MyBigNumber#readme",
+  "devDependencies": {
+    "bignumber.js": "^9.0.1"
+  }
+}
